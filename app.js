@@ -69,7 +69,7 @@ const team = {
     }
     this.games.push(game);
   }
-};
+}; // End team object
 
 // Testing addPlayer method
 team.addPlayer('Steph', 'Curry', 28);
